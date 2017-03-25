@@ -1,6 +1,6 @@
 # Data Science Public Test
 
-by: ![alt text](https://ci3.googleusercontent.com/proxy/RbZ1aeMA_pwS97cca31dYrakFM1VpcvVdpXgO9cdpgqMGHwceTATjg9L58cK3BuJRrXOQeEp-cvHK5vF6x0F9qmLTJIUnlrOiSN--UlVHP9y3kWUUTwr=s0-d-e1-ft#http://pixan.io/dev/crabi-mail-test/public/assets/emails/logo.png "Crabi Logo") **Crabi Dev-Team** 
+by: ![alt text](https://ci3.googleusercontent.com/proxy/RbZ1aeMA_pwS97cca31dYrakFM1VpcvVdpXgO9cdpgqMGHwceTATjg9L58cK3BuJRrXOQeEp-cvHK5vF6x0F9qmLTJIUnlrOiSN--UlVHP9y3kWUUTwr=s0-d-e1-ft#http://pixan.io/dev/crabi-mail-test/public/assets/emails/logo.png "Crabi Logo")
 
 This is the Public Data Science Test. Any serious candidate should answer all questions. This test shall be performed on-site. 
 
